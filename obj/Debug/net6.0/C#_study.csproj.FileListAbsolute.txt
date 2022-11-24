@@ -1,0 +1,15 @@
+C:\Users\Metehan\Desktop\Pratikler\C#_study\bin\Debug\net6.0\C#_study.exe
+C:\Users\Metehan\Desktop\Pratikler\C#_study\bin\Debug\net6.0\C#_study.deps.json
+C:\Users\Metehan\Desktop\Pratikler\C#_study\bin\Debug\net6.0\C#_study.runtimeconfig.json
+C:\Users\Metehan\Desktop\Pratikler\C#_study\bin\Debug\net6.0\C#_study.dll
+C:\Users\Metehan\Desktop\Pratikler\C#_study\bin\Debug\net6.0\C#_study.pdb
+C:\Users\Metehan\Desktop\Pratikler\C#_study\obj\Debug\net6.0\C#_study.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Pratikler\C#_study\obj\Debug\net6.0\C#_study.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Pratikler\C#_study\obj\Debug\net6.0\C#_study.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\C#_study\obj\Debug\net6.0\C#_study.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Pratikler\C#_study\obj\Debug\net6.0\C#_study.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\C#_study\obj\Debug\net6.0\C#_study.dll
+C:\Users\Metehan\Desktop\Pratikler\C#_study\obj\Debug\net6.0\refint\C#_study.dll
+C:\Users\Metehan\Desktop\Pratikler\C#_study\obj\Debug\net6.0\C#_study.pdb
+C:\Users\Metehan\Desktop\Pratikler\C#_study\obj\Debug\net6.0\C#_study.genruntimeconfig.cache
+C:\Users\Metehan\Desktop\Pratikler\C#_study\obj\Debug\net6.0\ref\C#_study.dll
